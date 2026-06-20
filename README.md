@@ -1,4 +1,4 @@
-![Dashboard][Dashboards.png]
+![Dashboard](Dashboards.png)
 
 Data flow and architecture:
 
