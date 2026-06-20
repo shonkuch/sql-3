@@ -1,3 +1,5 @@
+![Dashboard][Dashboards.png]
+
 Data flow and architecture:
 
 Raw files (ingests) are introduced into bronze
